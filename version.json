@@ -1,11 +1,11 @@
 {
-  "version": "1.0.16",
-  "apk": "tv-live-1.0.16.apk",
-  "notes": "构建 #16：老设备流畅度专项——频道列表自适应网格(一屏看全)+方向键逐个移动(修复只能选CCTV-1/5/10)+去掉焦点动画(遥控不卡);播放页自动点击封面播放按钮+多次唤醒(修复卡在大播放图片);WebView渲染提速;不走咪咕,央视/卫视官网高清源;固定签名可覆盖升级;切换延时可调。",
-  "history": "tv-live-1.0.4.apk tv-live-1.0.5.apk tv-live-1.0.6.apk tv-live-1.0.7.apk tv-live-1.0.8.apk tv-live-1.0.9.apk tv-live-1.0.10.apk tv-live-1.0.11.apk tv-live-1.0.12.apk tv-live-1.0.13.apk tv-live-1.0.14.apk tv-live-1.0.15.apk tv-live-1.0.16.apk ",
+  "version": "1.0.17",
+  "apk": "tv-live-1.0.17.apk",
+  "notes": "构建 #17：盒子提速专项——播放页拦截广告/统计/图片等无关资源(老内核秒开);频道墙去光效渐变与动画;彻底去除咪咕(仅央视20台+13个已验证官网源卫视,每个台都有画面);修复手机更新弹不出安装器(补安装回调声明+手机优先标准安装+授权后自动续装);保留自适应网格/方向键逐个移动/自动点封面播放;固定签名可覆盖升级。",
+  "history": "tv-live-1.0.4.apk tv-live-1.0.5.apk tv-live-1.0.6.apk tv-live-1.0.7.apk tv-live-1.0.8.apk tv-live-1.0.9.apk tv-live-1.0.10.apk tv-live-1.0.11.apk tv-live-1.0.12.apk tv-live-1.0.13.apk tv-live-1.0.14.apk tv-live-1.0.15.apk tv-live-1.0.16.apk tv-live-1.0.17.apk ",
   "downloads": {
-    "jsdelivr": "https://cdn.jsdelivr.net/gh/20211109/tv-live-release@main/tv-live-1.0.16.apk",
-    "raw": "https://raw.githubusercontent.com/20211109/tv-live-release/main/tv-live-1.0.16.apk",
-    "github": "https://github.com/20211109/tv-live-release/raw/main/tv-live-1.0.16.apk"
+    "jsdelivr": "https://cdn.jsdelivr.net/gh/20211109/tv-live-release@main/tv-live-1.0.17.apk",
+    "raw": "https://raw.githubusercontent.com/20211109/tv-live-release/main/tv-live-1.0.17.apk",
+    "github": "https://github.com/20211109/tv-live-release/raw/main/tv-live-1.0.17.apk"
   }
 }
