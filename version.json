@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4",
-  "apk": "tv-live-1.0.4.apk",
-  "notes": "构建 #4：央视 18 台 / 卫视 22 台 / 影视 2 台；播放中左右换台；手机滑动换台。",
-  "history": "tv-live-1.0.4.apk "
+  "version": "1.0.5",
+  "apk": "tv-live-1.0.5.apk",
+  "notes": "构建 #5：央视 18 台 / 卫视 22 台 / 影视 2 台；播放中左右换台；手机滑动换台。",
+  "history": "tv-live-1.0.4.apk tv-live-1.0.5.apk "
 }
