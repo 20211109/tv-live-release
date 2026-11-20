@@ -1,11 +1,11 @@
 {
-  "version": "1.0.13",
-  "apk": "tv-live-1.0.13.apk",
-  "notes": "构建 #13：咪咕页改为只保留视频、隐藏其余全部元素(广告/会员推广/控制条彻底净除,5分钟持续守护);固定签名可覆盖升级;央视主源咪咕备源;切换延时可调;手机全屏铺满;UI放大。",
-  "history": "tv-live-1.0.4.apk tv-live-1.0.5.apk tv-live-1.0.6.apk tv-live-1.0.7.apk tv-live-1.0.8.apk tv-live-1.0.9.apk tv-live-1.0.10.apk tv-live-1.0.11.apk tv-live-1.0.12.apk tv-live-1.0.13.apk ",
+  "version": "1.0.14",
+  "apk": "tv-live-1.0.14.apk",
+  "notes": "构建 #14：卫视新增官网直达高清源(13台,1080p/720p无咪咕贴片,打不开自动切咪咕);官网自动切PC桌面UA;央视主源咪咕备源;咪咕页只保留视频净化;固定签名可覆盖升级;切换延时可调;手机全屏铺满。",
+  "history": "tv-live-1.0.4.apk tv-live-1.0.5.apk tv-live-1.0.6.apk tv-live-1.0.7.apk tv-live-1.0.8.apk tv-live-1.0.9.apk tv-live-1.0.10.apk tv-live-1.0.11.apk tv-live-1.0.12.apk tv-live-1.0.13.apk tv-live-1.0.14.apk ",
   "downloads": {
-    "jsdelivr": "https://cdn.jsdelivr.net/gh/20211109/tv-live-release@main/tv-live-1.0.13.apk",
-    "raw": "https://raw.githubusercontent.com/20211109/tv-live-release/main/tv-live-1.0.13.apk",
-    "github": "https://github.com/20211109/tv-live-release/raw/main/tv-live-1.0.13.apk"
+    "jsdelivr": "https://cdn.jsdelivr.net/gh/20211109/tv-live-release@main/tv-live-1.0.14.apk",
+    "raw": "https://raw.githubusercontent.com/20211109/tv-live-release/main/tv-live-1.0.14.apk",
+    "github": "https://github.com/20211109/tv-live-release/raw/main/tv-live-1.0.14.apk"
   }
 }
